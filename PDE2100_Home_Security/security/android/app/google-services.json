@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "353914637980",
+    "firebase_url": "https://esp8266-values-d231f-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-values-d231f",
+    "storage_bucket": "esp8266-values-d231f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353914637980:android:8e05ed06a01651c1cce759",
+        "android_client_info": {
+          "package_name": "com.example.security"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKs3vJc16c5cWD_fFi1y5ZGF0fbGwmP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
